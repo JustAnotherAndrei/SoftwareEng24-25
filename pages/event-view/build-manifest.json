@@ -1,0 +1,25 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/event-view": [
+      "static/chunks/[root-of-the-server]__8eef4b66._.js",
+      "static/chunks/node_modules_next_8d99e26e._.js",
+      "static/chunks/node_modules_react-dom_82bb97c6._.js",
+      "static/chunks/node_modules_react-icons_fa_index_mjs_bad01e3f._.js",
+      "static/chunks/node_modules_react-icons_lib_75a63dfe._.js",
+      "static/chunks/node_modules_@trpc_server_dist_cdbd22dc._.js",
+      "static/chunks/node_modules_@trpc_client_dist_b5877c71._.js",
+      "static/chunks/node_modules_@tanstack_query-core_build_modern_7688f4f4._.js",
+      "static/chunks/node_modules_effect_dist_esm_5d6cea43._.js",
+      "static/chunks/node_modules_e26a35f1._.js",
+      "static/chunks/src_styles_28dde468._.css",
+      "static/chunks/src_pages_event-view_5771e187._.js",
+      "static/chunks/src_pages_event-view_8e352409._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
